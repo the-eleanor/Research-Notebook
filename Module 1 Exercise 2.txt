@@ -1,0 +1,7 @@
+Module 1 Exercise 2
+
+I was not sure if the demo repository meant the first one or the patchwork one, so here is both!
+
+https://github.com/the-eleanor/unicorns
+
+https://github.com/the-eleanor/patchwork
