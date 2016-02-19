@@ -1,0 +1,18 @@
+M1E3 Big Data for Dead People - Data gathering 1
+
+http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html
+
+Digital history as a field
+
+-Tools like Google Books and the Ngram Viewer can yield information regarding word usage and historical contexts
+-Digital data analysis tends to yield similar information compared to books due to books being a much older technology
+-Using other media, not just literary works, can provide a more accurate history of people from all walks of life, and technology can help us understand this
+-XML can be used to create associations in the data
+-Digital tools can be used to create graphs that can show trends and locate specific events in their historical context, using a vast amount of sources condensed into the graph
+
+-”Reading text – close, distant, computationally, or immersively - is the vanilla sex of the digital humanities and digital history” - literally the worst metaphor I've read in my academic life due to the negative use of “vanilla sex” being an implication that certain sexual preferences are somehow to be shamed
+
+-Digital tools can also help provide the information needed to recreate other parts of an event, such as the sound, sight, or feel.
+-Digital research can mirror traditional book research, albeit with some shortcuts that technology provides
+-These tools can be used to create historical maps of places
+-Concern that our questions and goals as historians are being shaped by technology, not the other way around

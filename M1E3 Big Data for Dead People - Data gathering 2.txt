@@ -1,0 +1,15 @@
+M1E3 Big Data for Dead People - Data gathering 2
+
+http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html
+
+Case specifics
+
+-Using digital tools, Sarah's language can be extracted from the records and used to determine the language of other women of her class and age
+-Documents can also be used to locate her and who she lived with and around, and this can be compiled to create a better picture of her life
+-The words used and the events of the case can use tools such as Google Books to determine how usual or unusual her court case was
+-Compiling the data from a vast number of other cases, using factors such as length, sentence, and crime, and plugging it into a graph can reveal yet more about her case
+	-It locates her in a time where conviction rates were rising
+-Data can also be used to determine the relationship between trial text and trial outcome;  ie evidence gathered as it relates to court proceedings; as well as semantics
+-A soundscape of the courtroom can be created, in order to yield yet more information (such as what it would feel like to be there) about contemporary court cases
+
+

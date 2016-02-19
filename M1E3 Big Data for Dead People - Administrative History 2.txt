@@ -1,0 +1,17 @@
+M1E3 Big Data for Dead People - Administrative History 2
+
+Administrative history as it relates to digital history and digital research
+
+http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html
+
+-Digital history can allow more information to be found more easily through documents such as court cases
+	-This includes details about everyday life as well as speech patterns
+-These tools can also be used to sort hundreds of thousands of cases into patterns such as verdict, crime, gender, or crime location
+-Legal patterns such as length of trials and format of court proceedings can be determined by compiling the great number of cases into graphs
+	-Applies also to evolution of justice systems
+-Can also be used to determine rates of conviction at a given time and place for a given crime, using that time and place's justice system
+-Trial text as it relates to verdict can be examined and displayed in graphs
+	-Can show how in the context of Sarah's case, there was not a strict correlation due to the 	amount of backroom deals being used to reach verdicts
+-Semantics in court cases, such as the use of violent language, can be traced.
+-Recreations of the case can be made using digital tools, leading to a better understanding of what it would feel like to be there.
+	-For example, digital renderings and soundscapes

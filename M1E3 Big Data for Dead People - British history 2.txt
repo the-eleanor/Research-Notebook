@@ -1,0 +1,14 @@
+M1E3 Big Data for Dead People - British history 2
+
+http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html
+
+British history as it relates to digital history and digital research
+
+-Digital tools can provide information about demographics such as the British working class
+-Locations of people who lived in certain places can be provided through compiling a multitude of sources.
+-Life on different streets, such as London Street being a busy shopping street, can be determined
+-Different methods of policing and legal systems can be noted, such as the evolution of the justice system to grant the police and court more power over the individual
+-Use of graphs correlating trial text and verdict can show how backroom deals during this time and place were used more to determine verdicts than the actual trials
+-Recreations of events during this time period can be made with digital tools, leading to a greater understanding of what it was like to be there
+	-For example, digital renderings and soundscapes
+-Maps can be created using digital tools to extract information and document the changing look of London over the centuries

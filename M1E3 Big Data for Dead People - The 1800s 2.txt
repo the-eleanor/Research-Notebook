@@ -1,0 +1,11 @@
+M1E3 Big Data for Dead People - The 1800s 2
+
+The 1800s as it relates to digital history and digital research
+
+-Language patterns of times and places, including that of the late 1800's, can be determined through the use of digital tools on old documents such as court cases
+-Locations of people's living places can also be determined
+	-Information regarding types of streets in England can also be determined.
+-Different methods of policing and legal systems can be noted through court documents, such as the evolution of the justice system in late 19th c England that granted the court and police more power over the individual
+-Use of graphs correlating trial text and verdict can show how backroom deals during this time and place were used more to determine verdicts than the actual trials
+-Recreations of events during this time period can be made with digital tools, leading to a greater understanding of what it was like to be there
+	-For example, digital renderings, detailed historical maps, and soundscapes
