@@ -1,0 +1,13 @@
+M2E1 Dream Case
+
+Tried searching "coquit*" and "coqui*" on the Epigraphic Database Heidelberg because I love cooking and wanted to see if I could find any information about that, but the searches yielded no results.
+
+http://edh-www.adw.uni-heidelberg.de/inschrift/suche?hd_nr=&land=&fo_antik=&fo_modern=&literatur=&dat_jahr_a=&dat_jahr_e=&atext1=coquit*&bool=AND&atext2=&sort=hd_nr&anzahl=20
+
+http://edh-www.adw.uni-heidelberg.de/inschrift/suche?hd_nr=&land=&fo_antik=&fo_modern=&literatur=&dat_jahr_a=&dat_jahr_e=&atext1=coqui*&bool=AND&atext2=&sort=hd_nr&anzahl=20
+
+Moved on to the CWGC database, searched my last name, and found 30 records. Downloaded them, put them in the folder for this course on my computer, and renamed the file "CWGC Search Results."
+
+http://www.cwgc.org/find-war-dead.aspx
+
+(Most of these folks are from the UK so if they are related to me, it is distantly - the part of my family with that surname moved to North America much earlier than either of the World Wars.)
