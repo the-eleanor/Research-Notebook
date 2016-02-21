@@ -1,4 +1,4 @@
-Module 1 Exercise 2
+M1E2 Demo Repositories
 
 I was not sure if the demo repository meant the first one or the patchwork one, so here is both!
 
