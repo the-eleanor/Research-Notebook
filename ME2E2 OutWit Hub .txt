@@ -1,0 +1,9 @@
+ME2E2 OutWit Hub 
+
+The data provided by OutWit Hub from the Suda Online site (assuming I carried out the instructions correctly) appears to be definitions. 
+
+There are twelve items in the spreadsheet. Under the "Adler" column, there is a list of greek alphabet names and a number next to them. The last item on the list has nothing in the Adler column. The transcription column lists definitions; the first item on the list has nothing in the trascription column.
+
+Comparing it to the search results on the actual website, the reason for the lack of Adler number on the last item and the lack of transcription on the first item is that for some reason the transcription column has been offset by one. Therefore, the first Adler number actually corresponds to the second item under the transcription column.
+
+I am not entirely sure how this specific data might be helpful, as from what I can gather it is words with the Greek root "pie" (although this might be useful in determining linguistic history or looking for specific Greek words). However, I can see how obtaining the data from a database or encyclopedia and having it in a basic spreadsheet could be a handy tool for further analysis and use.
