@@ -1,0 +1,7 @@
+M3E2 and E3 - March 22, 2016
+
+Exercise 2 was fairly straightforward and not difficult when following the exercise instructions It was simply a matter of ensuring I was following instructions and making the correct searches in Notepad++. RegEx's syntax seems incredibly difficult to remember, however. I would constantly need a cheatsheet when using it. I also get a little confused when trying to figure out which sequence of symbols will do what I want in any scenario, so while I recognise that it is a powerful tool, it might take a long time before I can successfully figure out how to perform a successful search on my own.
+
+Exercise 3 was actually fairly neat. The way OpenRefine launches from your computer but opens in your browser was a little new to me, but whatever works, I suppose. I can certainly see how this would be an incredibly useful tool when dealing with OCR text! Unfortunately, I did have to manually rename some entries to combine them with the correct entry, because no matter which cluster method I used, it would not pick up that they were similar. As well, I still had more entries in both my sender and recipiant columns than the instructions said I should and I do not know why, especially since I manually scrolled through them and they all seemed to be combined properly.
+
+It is unfortunate that this program still could not assist in correcting some of the names that only appeared once but clearly were misread by the computer. I'm not sure that poor person's first name is "Alc6e."

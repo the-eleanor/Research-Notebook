@@ -1,0 +1,11 @@
+M5E1 - Inkscape -March 28, 2016
+
+There is not a lot to say about this exercise. It was relatively easy and I ran into no problems with it. 
+
+I will be honest, Inkscape is a little unintuitive for someone who is generally used to where everything is in Photoshop Elements or Microsoft Word/LibreOffice, but it is certainly a useful tool for PDFs.
+
+Note to self: layers are finicky and don't function like they do in Photoshop, and the layers menu is located at the bottom.
+
+I wasn't exactly sure what the instructions meant for "add a legend," since the example version did not seem to have anything that related to that instruction. In the end, I just sort of winged it.
+
+Since I usually work with raster-based programs for art and graphics, it was definitely new to zoom in and not have things become pixellated. This is definitely a program I might want to play around with a bit more. 

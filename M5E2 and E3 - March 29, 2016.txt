@@ -1,0 +1,18 @@
+M5E2 and E3 - March 29, 2016
+
+I did not actually know about Google Fonts and I feel like my life has been changed forever because I actually love different fonts. I am very excited about this. I am not entirely sure I did a great job of matching the fonts, but I did my best to choose ones that had contrast and still maintained a sense of professionalism suitable for academic work.
+
+I had some trouble with the colour exercise, though. I chose to use the previous exercise as a base to add to, and had some adventures with the CSS. I have a very basic knowledge of HTML but am less familiar with CSS and could not figure out where to put the tag to colour the background. Different sites told me conflicting things and nothing seemed to work.
+
+I ended up asking my best friend, who was online and is studying computer science, where it goes and she helped me figure out the problem. Unfortunately I am still not exactly sure what the problem was, as I thought I had tried that location before, but...it works now, I guess? Anyway, note to self: it goes in the body tag after all the font info.
+
+I am a big fan of how ugly-as-sin the colour scheme for my example of bad colour choice is.
+
+I think that neither of these exercises taught me anything that was completely new, especially the colour exercise because I took art class throughout high school, but they certainly elaborated on what I knew in ways that would be applicable to digital history.
+
+These exercises can both be found on github here:
+https://github.com/the-eleanor/M5E2andM5E3/tree/gh-pages
+As well, they can be found as websites here:
+M5E2: http://the-eleanor.github.io/M5E2andM5E3/myfontchoice.html
+M5E3 Bad Colour Scheme: http://the-eleanor.github.io/M5E2andM5E3/BadColour.html
+M5E3 Good Colour Scheme: http://the-eleanor.github.io/M5E2andM5E3/GoodColour.html

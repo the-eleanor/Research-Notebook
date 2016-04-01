@@ -1,0 +1,18 @@
+M5E4 - Layout - April 1, 2016
+
+Poster choice: Blue and grey poster.
+
+Right from the start, this poster feels very busy and not very eye-catching.
+
+The colours definitely need to be improved - instead of blue and grey, the circle in the middle should at least be brighter and the background should not be so dull. The fact that the colour is so plain makes the rest of the poster even harder to focus on. It is a wall of text with colours that could be seen as boring, which does not make anyone want to look at it. The blue of the panels needs to be more saturated to grab attention.
+
+I very much disagree with the poster's original creator's website stating that one should avoid flat spaces of colour. Gradients can look nice, but they can also create yet another form of visual noise that I feel this poster suffers from. The background can stay as a gradient but the individual panels would benefit from being flat
+-The gradient I changed the colour to is not as noticable because I had some trouble getting the gradient tool to behave.
+
+I changed the headers and the title to yellow to give them more pop. Yellow was especially a good colour because it is a colour that contrasts with the blue. As well, some of the key words in the text were already written in yellow font.
+
+I got rid of the breaks between the parts of the circle and spread out some of the "User Interface Design Sessions" pictures more, because I felt that the broken up section did not provide an even rhythm to the poster. By spreading out the pictures, the same amount of balance is achieved without that part of the poster feeling broken up strangely.
+
+The last change I made was to make the title a bit bigger, to make it more of a focus.
+
+As a side note, I changed my mind about Inkscape. It remains unintuitive and I do not like it as much as I did in exercise 1. I had a lot of trouble dealing with the layers and selecting the right layer. The background colour is not quite what I wanted it to be because of this.

@@ -1,0 +1,7 @@
+M4E2 and E4 - April 1, 2016
+
+The Topic Modeling Tool was actually a fairly simple thing to use - following the instructions, I had no problems at all with getting it to carry out its job. The results are a little bit confusing, as instead of displaying one word for each item on the output list, it provides a string of terms and words, some of which seem to be related and some of which...I'm not so sure about.
+
+Still, though, it definitely creates a way to provide areas of focus within the database, and I am actually happy it exists because I can see it being very useful with the database I've chosen for my final project.
+
+I also decided to try to use Overview for text analysis. Unfortunately, I did not experience as much success with it. I did reach out to the Slack space to figure out how to get it to provide me with more filtered results as the instructions requested, but frankly, I still couldn't figure out a way to use it efficiently and effectively. The multisearch tool seemed like it would be difficult to use if you had a lot of words to weed out, making the word cloud the only useful way to edit out unwanted words. I can see how it might be useful in figuring out what words are most prominent in a dataset, but I do know how much use it will be to me for my final project.

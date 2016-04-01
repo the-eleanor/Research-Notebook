@@ -1,0 +1,11 @@
+M3E1 TEI - March 22, 2016
+
+Vetting the Website
+
+The Recovered Histories site has a very easy-to-use and attractive layout. The introduction is promising, claiming that Anti-Slavery International has digitized its collection. As someone who is currently both learning about and benefiting from digital archiving practices in my internship for the History Practicum course, this is a nice thing to read. The sheer amount of primary source documents certainly indicates that this website would be a boon to those investigating this topic of research. 
+
+The introduction does state, however, that it is Anti-Slavery International's own collection. This means is something to be aware of, as no archive is complete and there is always human bias that occurs when deciding what goes into a collection. The organization by themed narratives might be useful for those wanting to learn more about the topic, but it is still important to be critical when looking at the formation of specific external narratives with these primary sources.
+
+Altogether, this still seems to be a useful and reliable site for primary sources, but as with everything, critical thinking is important. 
+
+As for the exercise itself, transcribing was not new to me as we had done a similar exercise in the second year Historian's Craft course. However, I did notice a syntax mistake (two quotation marks at the end of the tag) for place names. Before I noticed and fixed it, it threw off a lot of my code. I solved the problem myself but mentioned the issue on Slack.
