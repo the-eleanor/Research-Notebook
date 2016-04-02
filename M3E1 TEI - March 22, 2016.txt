@@ -8,4 +8,6 @@ The introduction does state, however, that it is Anti-Slavery International's ow
 
 Altogether, this still seems to be a useful and reliable site for primary sources, but as with everything, critical thinking is important. 
 
-As for the exercise itself, transcribing was not new to me as we had done a similar exercise in the second year Historian's Craft course. However, I did notice a syntax mistake (two quotation marks at the end of the tag) for place names. Before I noticed and fixed it, it threw off a lot of my code. I solved the problem myself but mentioned the issue on Slack.
+As for the exercise itself, transcribing was not new to me as we had done a similar exercise in the second year Historian's Craft course. However, when encoding, I did notice a syntax mistake (two quotation marks at the end of the tag) for place names. Before I noticed and fixed it, it threw off a lot of my code. I solved the problem myself but mentioned the issue on Slack.
+
+Here is the transcribed and encoded page: https://github.com/the-eleanor/Module-3-Exercises/blob/master/M3E1%20-TEI%20exercise%20-%20March%2022%202016%20-%20page%2033.xml

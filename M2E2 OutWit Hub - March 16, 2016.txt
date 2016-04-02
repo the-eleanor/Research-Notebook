@@ -9,3 +9,7 @@ There are twelve items in the spreadsheet. Under the "Adler" column, there is a 
 Comparing it to the search results on the actual website, the reason for the lack of Adler number on the last item and the lack of transcription on the first item is that for some reason the transcription column has been offset by one. Therefore, the first Adler number actually corresponds to the second item under the transcription column.
 
 I am not entirely sure how this specific data might be helpful, as from what I can gather it is words with the Greek root "pie" (although this might be useful in determining linguistic history or looking for specific Greek words). However, I can see how obtaining the data from a database or encyclopedia and having it in a basic spreadsheet could be a handy tool for further analysis and use.
+
+In terms of community-building, I gave some advice to Catharine Hood about how to continue with this exercise, as she had gotten stuck when using OutWit Hub. She was not sure where to go next with the program and I let her know which button to press to continue with her scraping.
+
+The exported data can be found on my GitHub: https://github.com/the-eleanor/Module-2-Exercises/blob/master/M2E2%20OutWit%20Exercise%20-March%2016%202016%20-%20Catch%20export%20-%20Stoa.org.xls

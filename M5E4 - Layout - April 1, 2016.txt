@@ -16,3 +16,5 @@ I got rid of the breaks between the parts of the circle and spread out some of t
 The last change I made was to make the title a bit bigger, to make it more of a focus.
 
 As a side note, I changed my mind about Inkscape. It remains unintuitive and I do not like it as much as I did in exercise 1. I had a lot of trouble dealing with the layers and selecting the right layer. The background colour is not quite what I wanted it to be because of this.
+
+Here is my edited poster: https://github.com/the-eleanor/Module-5-Exercises/blob/master/M5E4%20-Layout%20exercise%20-%20April%201%202016%20-%20Poster%20edit.svg

@@ -9,3 +9,5 @@ Note to self: layers are finicky and don't function like they do in Photoshop, a
 I wasn't exactly sure what the instructions meant for "add a legend," since the example version did not seem to have anything that related to that instruction. In the end, I just sort of winged it.
 
 Since I usually work with raster-based programs for art and graphics, it was definitely new to zoom in and not have things become pixellated. This is definitely a program I might want to play around with a bit more. 
+
+Here is my exported graph: https://github.com/the-eleanor/Module-5-Exercises/blob/master/M5E1%20-%20Inkscape%20exercise%20-%20March%2024%202016%20-%20Inkscape%20export.png

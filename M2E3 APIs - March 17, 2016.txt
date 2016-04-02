@@ -13,3 +13,8 @@ Finally, it ran successfully, and I just used the "splitthingsup.sh" command inc
 Anyway, I will probably look into different ways to split up the information next time I go through this process, because I am not really a fan of the formatting of the content format of the resulting split files.
 
 But I finished it and now I am going to take some deep breaths.
+
+The files were GIGANTIC and GitHub couldn't handle them, so I took screenshots.
+Here is what the beginning of the text looked like before it was split up: https://github.com/the-eleanor/Module-2-Exercises/blob/master/M2E3%20-%20API%20exercise%20-%20March%2017%202016%20-%20Output%20Screenshot.png
+Here is a screenshot of the split files in Windows Explorer:
+https://github.com/the-eleanor/Module-2-Exercises/blob/master/M2E3%20-%20API%20exercise%20-%20March%2017%202016%20-%20Split%20Files%20Screenshot.png

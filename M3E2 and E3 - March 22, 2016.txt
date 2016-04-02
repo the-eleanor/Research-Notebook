@@ -2,6 +2,16 @@ M3E2 and E3 - March 22, 2016
 
 Exercise 2 was fairly straightforward and not difficult when following the exercise instructions It was simply a matter of ensuring I was following instructions and making the correct searches in Notepad++. RegEx's syntax seems incredibly difficult to remember, however. I would constantly need a cheatsheet when using it. I also get a little confused when trying to figure out which sequence of symbols will do what I want in any scenario, so while I recognise that it is a powerful tool, it might take a long time before I can successfully figure out how to perform a successful search on my own.
 
+Here is the correspondance after my first runthrough with regular expressions: https://github.com/the-eleanor/Module-3-Exercises/blob/master/M3E2%20-%20Regex%20exercise%20-%20March%2022%202016%20-%20Texan%20Correspondence.txt
+Here is the cleaned correspondance: https://github.com/the-eleanor/Module-3-Exercises/blob/master/M3E2%20-%20Regex%20exercise%20-%20March%2022%202016%20-%20Cleaned%20Correspondance.csv
+
 Exercise 3 was actually fairly neat. The way OpenRefine launches from your computer but opens in your browser was a little new to me, but whatever works, I suppose. I can certainly see how this would be an incredibly useful tool when dealing with OCR text! Unfortunately, I did have to manually rename some entries to combine them with the correct entry, because no matter which cluster method I used, it would not pick up that they were similar. As well, I still had more entries in both my sender and recipiant columns than the instructions said I should and I do not know why, especially since I manually scrolled through them and they all seemed to be combined properly.
 
 It is unfortunate that this program still could not assist in correcting some of the names that only appeared once but clearly were misread by the computer. I'm not sure that poor person's first name is "Alc6e."
+
+As for placing the information in Gephi and Palladio, I found Palladio a lot easier and more intuitive to use. Gephi's settings were not obvious to figure out and I still have not figured out how to make the results clearer to interpret, whereas Palladio had a number of useful settings to provide a clear visual of the data.
+
+Here is the correspondance cleaned further (and with dates removed for Gephi): https://github.com/the-eleanor/Module-3-Exercises/blob/master/M3E3%20-%20Outwit%20Hub%20exercise%20-%20March%2022%202016%20-%20Cleaner%20Correspondance%20With%20No%20Dates.csv
+Here are the Gephi results: https://github.com/the-eleanor/Module-3-Exercises/blob/master/M3E3%20-%20Outwit%20Hub%20exercise%20-%20March%2022%202016%20-%20Gephi%20results.png
+Here are the Palladio results: https://github.com/the-eleanor/Module-3-Exercises/blob/master/M3E3%20-%20Outwit%20Hub%20Exercise%20-%20March%2022%202016%20-%20Palladio%20results.svg
+ 
