@@ -16,9 +16,10 @@ Module 5
 -For some reason I could not figure out how to change the background colour of my page for Exercise 3. I tried many different locations for the background colour tag in the page's CSS, but nothing was working. I finally asked my best friend, who was online at the time what to do, and she helped me to find the correct place for the code.
 
 Omeka exhibit
--I could not figure out how to mount the exhibit to my domain, as I had made the exhibit on the Omeka site before installing the Omeka plugin on Reclaim Hosting, and I asked the Slack group.
+-I could not figure out how to mount the exhibit to my domain, as I had made the exhibit on the Omeka site before installing the Omeka plugin on Reclaim Hosting, and I asked the Slack group. Dr. Graham let me know I could just provide him with the Omeka link.
 
 Final project
 -I confirmed that the dataset I was using was an acceptable choice.
 -I asked the folks on Slack how to proceed with my final project, as I had hit a hitch in finding a way to present my point using quantifiable data that could be visualized. Both Dr. Graham and Laurel Rowe provided suggestions, with the latter providing lots of help in finding programs that could be used to effectively analyze the data and in picking useful keywords for me to visually represent.
+-I looked at the links provided on the Final Project page to see what other students had done in the past in order to take inspiration from them. I especially looked at Ryan Pickering's project for inspiration on layout, and both his and Matthew Taylor's paradata for inspiration on how to structure my paradata.
 -I engaged in a bit of casual banter with Catharine Hood.
