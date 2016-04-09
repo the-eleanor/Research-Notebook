@@ -1,0 +1,24 @@
+Community Building
+
+I decided to make a separate entry to detail the interactions I've had regarding this course. I mentioned them in my other notebook posts, but not with any detail, and instead of going back and editing my old posts I figure it might be easier to have a complete breakdown here. I am a shy person who regularly struggles with things such as participation marks, so I figured it might help to make note of all of my engagements with others regarding this course.
+
+Module 2
+-I provided Catharine Hood with advice on how to continue with data scraping using OutWit Hub for Exercise 2, as she could not find the button she needed to click and was not sure how to proceed.
+-I asked both the Slack space and my best friend for advice on downloading one of the required tools from SourceForge for Exercise 3, as I was wary about downloading from there. My best friend (a computer science student) told me to just keep an eye on things while downloading from SourceForge, but Dr. Graham mentioned that the necessary tool was also included in the premade zip folder for the assignment, so I just downloaded that.
+
+Module 3
+-I pointed out on the Slack space that there was a syntax error in the instructions for making place name tags that would make the encoding not work right in Exercise 1.
+
+Module 4
+-I was having some trouble figuring out how to use Overview due to the layout having changed since the workbook instructions were written. I asked the Slack channel how I might filter words as Exercise 4's instructions requested, because this would be a useful tool for my final project. Laurel Rowe provided me with a lot of help in figuring out all of the different tools of Overview and how I might use them to filter through the data.
+
+Module 5
+-For some reason I could not figure out how to change the background colour of my page for Exercise 3. I tried many different locations for the background colour tag in the page's CSS, but nothing was working. I finally asked my best friend, who was online at the time what to do, and she helped me to find the correct place for the code.
+
+Omeka exhibit
+-I could not figure out how to mount the exhibit to my domain, as I had made the exhibit on the Omeka site before installing the Omeka plugin on Reclaim Hosting, and I asked the Slack group.
+
+Final project
+-I confirmed that the dataset I was using was an acceptable choice.
+-I asked the folks on Slack how to proceed with my final project, as I had hit a hitch in finding a way to present my point using quantifiable data that could be visualized. Both Dr. Graham and Laurel Rowe provided suggestions, with the latter providing lots of help in finding programs that could be used to effectively analyze the data and in picking useful keywords for me to visually represent.
+-I engaged in a bit of casual banter with Catharine Hood.

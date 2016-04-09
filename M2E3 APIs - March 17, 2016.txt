@@ -2,9 +2,9 @@ M2E3 APIs - March 17, 2016
 
 This exercise was certainly an experience.
 
-First of all, I was a little frustrated with how unclear the instructions were about what each downloaded program or application did - it was confusing to see which things I needed and which I did not, and I ended up with some redundancies and missing parts the first time I tried to harvest all the Canadiana entries.
+First of all, I was a little frustrated with how unclear the instructions were about what each downloaded program or application did - it was confusing to see which things I needed and which I did not, and I ended up with some redundancies and missing parts the first time I tried to harvest all the Canadiana entries. In the end, the things I needed were the zip folder with all the helpers and wget. 
 
-I did end up asking for advice on Slack regarding downloading some of the necessary files from SourceForge, since I had heard bad things about its reputation for including junkware in its downloads. I also consulted my best friend (and honestly, my personal tech support), who is not in this course but is a computer science major. She told me that as long as I kept an eye on what it was installing, it would be alright, so that is what I did because I wasn't sure where the alternative download location Professor Graham had mentioned was.
+I did end up asking for advice on Slack regarding downloading some of the necessary files from SourceForge, since I had heard bad things about its reputation for including junkware in its downloads. I also consulted my best friend, who is not in this course but is a computer science major. She told me that as long as I kept an eye on what it was installing, it would be alright.
 
 It took a bit of trial and error, since at first both jq and wget were causing the program to turn up with errors. Eventually I figured out why things were misbehaving; I am on Windows 10 so I had to make sure the "./" came before "jq" in the "canadiana.sh" file, and I had forgotten to change the name from "wget64" to just "wget." 
 

@@ -11,7 +11,7 @@ I very much disagree with the poster's original creator's website stating that o
 
 I changed the headers and the title to yellow to give them more pop. Yellow was especially a good colour because it is a colour that contrasts with the blue. As well, some of the key words in the text were already written in yellow font.
 
-I got rid of the breaks between the parts of the circle and spread out some of the "User Interface Design Sessions" pictures more, because I felt that the broken up section did not provide an even rhythm to the poster. By spreading out the pictures, the same amount of balance is achieved without that part of the poster feeling broken up strangely.
+I got rid of the breaks between the parts of the circle and spread out some of the "User Interface Design Sessions" pictures more, because I felt that the broken up section did not provide an even rhythm to the poster. By spreading out the pictures, the same amount of balance is achieved without that part of the poster feeling broken up strangely. Luckily there was already a circle of the same size and shape without the breaks floating around outside the page of the svg file, so I just used that and changed the colour and opacity.
 
 The last change I made was to make the title a bit bigger, to make it more of a focus.
 

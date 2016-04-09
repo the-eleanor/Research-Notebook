@@ -1,0 +1,75 @@
+Final Project
+
+**This is a very rough and slightly incomplete notetaking of my thought process, and most of it can be found in a more organized format in my paradata here:
+https://github.com/the-eleanor/Final-Project/blob/master/Paradata.md
+I am leaving it in my research notebook because it shows how some of my initial thoughts about the project went.
+
+The final project is here:
+http://the-eleanor.github.io/Final-Project/index.html
+
+~~~
+I want to show how cookbooks can be used as a historical source to determine women's experiences and social expectations. As women are one of the groups whose histories were previously often ignored or undocumented, cookbooks can become an alternate primary source for learning about their lives.
+
+A more precise thesis will (hopefully) emerge as I find out what information can be gathered from the data.
+
+Brainstorming:
+
+Things to try:
+-extract info about living tips
+-extract info about pleasing husbands?
+-extract info about social situations
+-extract info about proper behaviour
+-extract info about historical events?
+
+Final presentation:
+-text and graph analysis display? may be simplest
+*interactive maps wouldn't really be of use with this goal, although they would still be useful for different topics with this data (ie immigration patterns)
+
+External research:
+
+-JSTOR:
+-"Stirring Constantly": 150 Years of Michigan Cookbooks by Frank Boles	-> found through JSTOR, PDF is downloaded
+-Summoning the Food Ghosts: Food History as Public History by Megan Elias	-> found through JSTOR, PDF is downloaded
+
+*some of these may not cover the exact same time period as the data, but they depict the point of what I am trying to show.
+
+
+FIRST
+I threw everything into Overview. I may not use this too thoroughly for my purposes, but I figure it might point me in the right direction regarding which documents contain which keywords. 
+
+The resulting word cloud was unsurprising, it was pretty much entirely ingredients, measurements, and cooking instruction phrases. However, using the multisearch tool, I found that several documents contained terms such as "husband," "wife," "man", "woman," and "guest". A brief glance through a few of the documents confirmed that many of them did indeed contain information about how women were to behave in the household, either in the preface of the cookbook or in sections with explicit instructions. 
+
+One thing that struck me was that "mrs" was one of the words (albeit a smaller one) in the word cloud. Upon looking at the documents that contain it, it appears that almost every woman's name is prefixed by "Mrs," whether it be the author of the book or an author of a recipe. Already the emphasis on marriage indicates a social norm that can be gleaned through these books. 
+
+Of the 76 documents:
+54 contain "mrs"
+34 contain "wife"
+26 contain "husband"
+34 contain "guest"
+48 contain "woman"
+56 contain "man" **this includes parts of words, so it is not the most accurate
+69 contain "family
+41 contain "child"
+51 contain "household"
+
+-search these words by frequency
+-search these words by year?
+-maybe extract examples for the final report
+
+question: how can cookbooks show women's experiences?
+sources: the cookbook dataset, the articles on JSTOR
+analytical activity: searches, graphs?
+audience: university-level women's studies?
+product: what I come up with I guess
+
+
+turn list of publications into a csv, graph by year somehow? - why? how would this help?
+
+try making better wordcloud with lexos, but need to use stopwords, and these lists have no commas - regex time!
+-stopwords not helping much when trying to scan every document together with lexos
+
+-individual wordclouds, then
+
+include screenshot of overview?
+
+Another reference: www.cairn.info/revue-francaise-d-etudes-americaines-2008-2-page-99.htm
